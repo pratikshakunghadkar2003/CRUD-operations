@@ -1,0 +1,9 @@
+.col-md-2{background-color: ghostwhite;height: 900px;box-shadow: 5px 2px 3px 1px;margin-left:30px;width: 200px;margin-top: 10px;}
+.col-md-10{margin-top:4%;}
+.section{margin-top: 30px;}
+.section-div{width: 1650px;height: 610px;margin-left: 20px;background-color: whitesmoke;}
+img{height: 50px;width: 50px;border-radius: 50px;position:absolute;right:50px;top:7%}
+h5{position:absolute;right:110px;top:8%;}
+nav{margin-top: 7%;}
+h4:hover{color: whitesmoke;background-color: black;}
+.section-one{margin-top: 360%;}
